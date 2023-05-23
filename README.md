@@ -6,7 +6,7 @@ I'm a creative Engineer with a passion for finding solutions to complex problems
 😁 - I enjoy working with: C#, Python, Java, SQL, HTML, CSS and Javascript<br/>
 📜 - Electronic Engineer and Master's Degree in Electrical Engineering ( Instrumentation and Digital Systems)<br/>
 
-<h3> Website </h3>
+<h3> Contact </h3>
 https://danieljaimes9213.github.io/
 <br/>
 <h3>Let's Connect!</h3>
