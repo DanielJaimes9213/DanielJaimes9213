@@ -9,14 +9,12 @@ I'm a creative Engineer with a passion for finding solutions to complex problems
 <h3> Website </h3>
 https://danieljaimes9213.github.io/
 <br/>
-<br/>
-
 <h3>Let's Connect!</h3>
  Whenever I'm not coding, you can find me playing video games, learning a new technology, or on twitter/LinkedIn chatting with other devs! 
  <br/>
  <br/>
 <a href="https://twitter.com/DanielJaimes1">
-  <img align="left" alt="Daniel Jaimes | Twitter" width="22px" margin righ="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Daniel Jaimes | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/daniel-ricardo-jaimes-moreno-b29138128/">
   <img align="left" alt="Daniel's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
