@@ -14,7 +14,7 @@ https://danieljaimes9213.github.io/
  <br/>
  <br/>
 <a href="https://twitter.com/DanielJaimes1">
-  <img align="left" alt="Daniel Jaimes | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+   <img align="left" alt="Daniel Jaimes | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/en/6/60/Twitter_Logo_as_of_2021.svg" />
 </a>
 <a href="https://www.linkedin.com/in/daniel-ricardo-jaimes-moreno-b29138128/">
    <img align="left" alt="Daniel's LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
